@@ -40,3 +40,7 @@
     .imagem_arvore{
     width: 15%;
     }
+
+    .center {
+        align-items: center;
+    }
