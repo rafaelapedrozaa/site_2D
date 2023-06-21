@@ -41,6 +41,10 @@
     width: 15%;
     }
     
+    section .apresentaçao_trabalho {
+        justify-content: space-between;
+    }
+    
 
 
 
