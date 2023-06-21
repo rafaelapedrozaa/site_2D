@@ -27,10 +27,10 @@
     
     .apresentaçao_trabalho{
     background-image: linear-gradient(color);
-    display: flex;
-    justify-content:space-between
+    display: list-item;
     align-items: center;
     padding: 24px 0;
+    text-decoration: none;
     }
     
     .titulo_apresentaçao_trabalho{
