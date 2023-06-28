@@ -44,3 +44,28 @@
     .center {
         align-items: center;
     }
+
+    a {
+        text-decoration: none;
+    }
+
+    li {
+        list-style-type: none;
+    }
+
+    a {
+        color: black;
+    }
+
+    nav a {
+     cursor: pointer;
+    }
+
+    nav a :hover {
+        color: red;
+    }
+
+    header {
+        justify-content: space-between;
+        padding: 0px 50px;
+    }
