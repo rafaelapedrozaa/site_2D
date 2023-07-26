@@ -44,7 +44,8 @@
     }
     
     .imagem_arvore{
-    width: 10%;
+    width: 15%;
+    align-items: center;
     }
 
     .center {
