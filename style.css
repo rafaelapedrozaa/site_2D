@@ -52,30 +52,4 @@
     align-items: center;
     }
 
-    .center {
-        align-items: center;
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    li {
-        list-style-type: none;
-    }
-
-    a {
-        color: black;
-    }
-
-    nav a {
-     cursor: pointer;
-    }
-
-    nav a :hover {
-        color: red;
-    }
-
-    h2 {
-        font-size: medium;
-    }
+    
