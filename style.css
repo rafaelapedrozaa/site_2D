@@ -17,8 +17,8 @@
     }
     
     .cabeçalho_imagem{
-        size: 25%;
-    width: 5%;
+        size: 50%;
+    width: 10%;
     align-items: center;
     justify-content: space-around;
     }
